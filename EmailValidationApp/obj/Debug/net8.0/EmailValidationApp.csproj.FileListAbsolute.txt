@@ -1,0 +1,14 @@
+C:\Users\pande\source\repos\Wipro_CaseStudy\EmailValidationApp\bin\Debug\net8.0\EmailValidationApp.exe
+C:\Users\pande\source\repos\Wipro_CaseStudy\EmailValidationApp\bin\Debug\net8.0\EmailValidationApp.deps.json
+C:\Users\pande\source\repos\Wipro_CaseStudy\EmailValidationApp\bin\Debug\net8.0\EmailValidationApp.runtimeconfig.json
+C:\Users\pande\source\repos\Wipro_CaseStudy\EmailValidationApp\bin\Debug\net8.0\EmailValidationApp.dll
+C:\Users\pande\source\repos\Wipro_CaseStudy\EmailValidationApp\bin\Debug\net8.0\EmailValidationApp.pdb
+C:\Users\pande\source\repos\Wipro_CaseStudy\EmailValidationApp\obj\Debug\net8.0\EmailValidationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pande\source\repos\Wipro_CaseStudy\EmailValidationApp\obj\Debug\net8.0\EmailValidationApp.AssemblyInfoInputs.cache
+C:\Users\pande\source\repos\Wipro_CaseStudy\EmailValidationApp\obj\Debug\net8.0\EmailValidationApp.AssemblyInfo.cs
+C:\Users\pande\source\repos\Wipro_CaseStudy\EmailValidationApp\obj\Debug\net8.0\EmailValidationApp.csproj.CoreCompileInputs.cache
+C:\Users\pande\source\repos\Wipro_CaseStudy\EmailValidationApp\obj\Debug\net8.0\EmailValidationApp.dll
+C:\Users\pande\source\repos\Wipro_CaseStudy\EmailValidationApp\obj\Debug\net8.0\refint\EmailValidationApp.dll
+C:\Users\pande\source\repos\Wipro_CaseStudy\EmailValidationApp\obj\Debug\net8.0\EmailValidationApp.pdb
+C:\Users\pande\source\repos\Wipro_CaseStudy\EmailValidationApp\obj\Debug\net8.0\EmailValidationApp.genruntimeconfig.cache
+C:\Users\pande\source\repos\Wipro_CaseStudy\EmailValidationApp\obj\Debug\net8.0\ref\EmailValidationApp.dll
